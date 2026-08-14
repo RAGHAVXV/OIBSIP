@@ -25,7 +25,7 @@ This portfolio website showcases my profile, technical skills, projects, and con
 - Consistent typography and visual styling
 
 ## Project Structure
-
+```text
 WebDev-L1-PersonalPortfolio/
 ├── images/
 │   ├── profile.jpg
