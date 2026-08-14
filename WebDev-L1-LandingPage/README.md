@@ -23,6 +23,7 @@ WanderNest is a modern travel landing page designed to provide users with an att
 - Footer with contact/social links
 
 Project Structure
+```text
 WebDev-L1-LandingPage/
 ├── images/
 ├── index.html
