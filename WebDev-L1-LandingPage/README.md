@@ -1,31 +1,72 @@
- WanderNest Landing Page
+\# WanderNest - Travel Landing Page
 
-A responsive travel-themed landing page created as part of the **Oasis Infobyte Web Development Internship**.
 
- Project Overview
 
-WanderNest is a modern travel landing page designed to provide users with an attractive and engaging introduction to travel destinations and services.
+\## Project Overview
 
- Technologies Used
 
-- HTML5
-- CSS3
 
- Features
+WanderNest is a responsive travel landing page designed to provide users with an attractive and engaging interface for discovering travel destinations, packages, and experiences.
 
-- Responsive navigation bar
-- Hero section with call-to-action
-- Travel-focused content sections
-- Destination showcase
-- Testimonials/content sections
-- Responsive layout using CSS
-- Consistent colour palette and typography
-- Footer with contact/social links
 
-Project Structure
+
+The website focuses on clean design, responsive layouts, intuitive navigation, and a visually appealing travel-oriented user experience.
+
+
+
+\## Features
+
+
+
+\- Responsive navigation bar
+
+\- Hero section with call-to-action
+
+\- Travel destinations section
+
+\- Travel packages section
+
+\- Gallery section
+
+\- Contact section
+
+\- Book Now call-to-action
+
+\- Responsive design for desktop and mobile devices
+
+\- Smooth navigation between sections
+
+\- Consistent color palette and typography
+
+
+
+\## Technologies Used
+
+
+
+\- HTML5
+
+\- CSS3
+
+
+
+\## Project Structure
+
+
+
 ```text
+
 WebDev-L1-LandingPage/
-├── images/
+
+│
+
 ├── index.html
+
 ├── style.css
+
+├── images/
+
+├── screenshots/
+
 └── README.md
+
